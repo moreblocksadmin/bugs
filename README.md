@@ -1,0 +1,3 @@
+# moreblocks
+
+Moreblocks is an innovative website component library designed to revolutionize the way you build websites. It offers a vast collection of professionally designed and customizable components, allowing you to create stunning websites with ease. Whether you're a beginner or an experienced web designer, Moreblocks empowers you to save time, enhance your design process, and deliver exceptional results. With features like global styling compatibility, full responsiveness, and a convenient Chrome extension companion, Moreblocks provides limitless possibilities for your web design projects.
