@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Chrome Extension Bugs
 about: Create a report to help us improve
 title: ''
-labels: Chrome Extension Bugs, Template Bugs
+labels: Chrome Extension Bugs
 assignees: moreblocksadmin
 
 ---
